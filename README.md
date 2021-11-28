@@ -13,7 +13,9 @@ Here our results are clear. The successful plays dominated in the early summer m
 
 ### Analysis of Outcomes Based on Goals
 In order to make our analysis concise we had to explore one more detail. The rate or "percentage" at which these outcomes performed. Creating a new table I added the range amounts of the goals and used the 'COUNTIFS()' function to extract the data that met my criteria. Using the 'SUM()' function allowed for the generation of the total number of projects per outcome. All that was left was to calculate the percentages by dividing the goal from the total number of projects. Then multiplying the remainder by 100. Satisfied with the table, I created a pivot chart.
+
 [Table_of_Outcomes_Based_On_Goals.jpeg.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614621/Table_of_Outcomes_Based_On_Goals.jpeg.zip)
+
 [Pivot_Table_Of_Goals.peg.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614619/Pivot_Table_Of_Goals.peg.zip)
 
 Based on the information recieved from the pivot chart we can conclude that the most successful campaigns were under $5000. 
