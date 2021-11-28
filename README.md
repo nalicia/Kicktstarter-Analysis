@@ -5,7 +5,7 @@ This week we learned the basic fundamentals of analyzing large data sets in Exce
 
 ### Analysis of Outcomes Based on Launch Dates
 Our first step was creating a pivot chart to chunk the data we were looking for into a more readable format. Since we were looking for the outcomes of theatrical campaigns, I filtered the "Parent Category" to match "Theater" as well as filtering for the "Year" which consequently produced the months of the year on the chart. Because we are comparing the outcomes of the campaigns, the launch date and count of whether the outcomes were successful, failed, or canceled must be included. 
-[Insert Outcomes]
+[Theater_Outcomes_vs_Launch.png.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7613997/Theater_Outcomes_vs_Launch.png.zip)
 
 The additon of this pivot chart makes our data easier to digest than the kickstarter, however, it is not the full picture. In order to solidify the results of our analysis we needed to add another element; A graph. Graphical visualizations allow us to see trends without having to fumble through the numerical values. 
 [Insert Line-graph]
