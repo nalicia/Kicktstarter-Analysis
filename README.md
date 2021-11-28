@@ -23,7 +23,7 @@ Based on the information recieved from the pivot chart we can conclude that the 
 The last and final step is to produce another graph to make our data presentable. 
 [Outcomes_vs_Goals.png.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614609/Outcomes_vs_Goals.png.zip)
 
-## limitations
+## Limitations
 Looking at the outcomes based on lunch dates, I didn't filter the year however it appeared to only give me one year (It returned January through December). I would think that there would be more data for the other years,instead of compiling them together. If I wanted a deeper analysis I would definitely go through the multiple years to see if the trends are the same. I would complete the in-depth analysis for the launch dates as well as the goals.
 
 ## Challenges
