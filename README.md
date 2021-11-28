@@ -21,6 +21,5 @@ The last and final step is to produce another graph to make our data easier to d
 
 [Insert Line graph]
 
-##Challenges
-Throughout this module I had to overcome several obstacles. One of them was 
-##Limitations
+## Challenges
+During this analysis there were a few problems that I ran into. For starters when I tried converting my short date into just the year using the year function all of my cells returned 2014 as the value. I tried looking through the kick starter to see if I had added a value or if I had accidentally deleted a value but I couldn't find anything.After trying the function over and over again yeilding the same result I decided to make the harrowing decision of completely starting over from module one.  After that I ran into my second problem, when using the COUNTIFS() function I wasn't meeting all of my criteria. I was missing either the tail end or the beginning or even punctuation. This is where I learned that there are so many resources to help you when you get stuck. I use Microsoft specifically but there are countless websites and videos that you can use. And I was grateful to get back on track. The most frustrating thing of all is not saving your work when your browser receives a crash. While using git hub Safari had crashed,and I forgot to commit my changes. If I've learned anything from these mistakes it is to take your time and save your work.
