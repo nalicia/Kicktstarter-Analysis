@@ -5,7 +5,7 @@ This week we learned the basic fundamentals of analyzing large data sets in Exce
 
 ### Analysis of Outcomes Based on Launch Dates
 Our first step was creating a pivot chart to chunk the data we were looking for into a more readable format. Since we were looking for the outcomes of theatrical campaigns, I filtered the "Parent Category" to match "Theater" as well as filtering for the "Year" which consequently produced the months of the year on the chart. Because we are comparing the outcomes of the campaigns, the launch date and count of whether the outcomes were successful, failed, or canceled must be included. 
-[Theater Outcomes 2.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614001/Theater.Outcomes.2.zip)
+[Pivot_Table_of_Theater _Outcomes .zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614618/Pivot_Table_of_Theater._Outcomes.zip)
 The addition of this pivot chart makes our data easier to digest than the kickstarter, however, it is not the full picture. In order to solidify the results of our analysis we needed to add another element; A graph. Graphical visualizations allow us to see trends without having to fumble through the numerical values. 
 [Theater_Outcomes_vs_Launch.png.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7613997/Theater_Outcomes_vs_Launch.png.zip)
 
@@ -13,7 +13,9 @@ Here our results are clear. The successful plays dominated in the early summer m
 
 ### Analysis of Outcomes Based on Goals
 In order to make our analysis concise we had to explore one more detail. The rate or "percentage" at which these outcomes performed. Creating a new table I added the range amounts of the goals and used the 'COUNTIFS()' function to extract the data that met my criteria. Using the 'SUM()' function allowed for the generation of the total number of projects per outcome. All that was left was to calculate the percentages by dividing the goal from the total number of projects. Then multiplying the remainder by 100. Satisfied with the table, I created a pivot chart.
-[IMG_3694.jpeg.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614608/IMG_3694.jpeg.zip)
+[Table_of_Outcomes_Based_On_Goals.jpeg.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614621/Table_of_Outcomes_Based_On_Goals.jpeg.zip)
+
+[Pivot_Table_Of_Goals.peg.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614619/Pivot_Table_Of_Goals.peg.zip)
 Based on the information recieved from the pivot chart we can conclude that the most successful campaigns were under $5000. 
 
 The last and final step is to produce another graph to make our data presentable. 
