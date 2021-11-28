@@ -1,12 +1,11 @@
 # An anylysis of Kickstarter Campaigns
 Performing  analysis on Kickstarter data to discover trends. 
 ## Overview of Analysis 
-This week we learned the basic fundamentals of analyzing large data sets in Excel using conditional formatting, filters, functions, and pivot charts. After a refreshing review of Excels basic processes I set out to help Louise conquer her analysis-driven campaign. Louise wanted to know how the campaigns compared in relation to the outcomes of their fundraisisng goals and the conclusion of the campaigns. In order to assist Louise I had to make some modifications to the worksheet. [Theater Outcomes 2.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614001/Theater.Outcomes.2.zip)
-
+This week we learned the basic fundamentals of analyzing large data sets in Excel using conditional formatting, filters, functions, and pivot charts. After a refreshing review of Excels basic processes I set out to help Louise conquer her analysis-driven campaign. Louise wanted to know how the campaigns compared in relation to the outcomes of their fundraisisng goals and the conclusion of the campaigns. In order to assist Louise I had to make some modifications to the worksheet. 
 
 ### Analysis of Outcomes Based on Launch Dates
 Our first step was creating a pivot chart to chunk the data we were looking for into a more readable format. Since we were looking for the outcomes of theatrical campaigns, I filtered the "Parent Category" to match "Theater" as well as filtering for the "Year" which consequently produced the months of the year on the chart. Because we are comparing the outcomes of the campaigns, the launch date and count of whether the outcomes were successful, failed, or canceled must be included. 
-
+[Theater Outcomes 2.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7614001/Theater.Outcomes.2.zip)
 The additon of this pivot chart makes our data easier to digest than the kickstarter, however, it is not the full picture. In order to solidify the results of our analysis we needed to add another element; A graph. Graphical visualizations allow us to see trends without having to fumble through the numerical values. 
 [Theater_Outcomes_vs_Launch.png.zip](https://github.com/nalicia/Kicktstarter-Analysis/files/7613997/Theater_Outcomes_vs_Launch.png.zip)
 
